@@ -1,4 +1,4 @@
-Once upon a time....
+Once upon a time....?
 <<<<<<< HEAD
 
 There was a rabid wombat.
@@ -11,4 +11,8 @@ it works! Anyways, back to the wombat...
 wordle time 
 _____
 
+<<<<<<< HEAD
 Okay, a rabid wombat playing wordle.
+=======
+Ryan C Controbution - C4 Rugged
+>>>>>>> 9add4e7f18111b9a8cbbc1dd022a9aa9f2346399
